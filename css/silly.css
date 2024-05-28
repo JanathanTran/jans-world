@@ -1,0 +1,20 @@
+h1{
+	font-size: 40px;
+	color:#4742B4;
+}
+h2{
+	font-size: 30px;
+	color: darkred;
+}
+.big{
+	font-size: 100px;
+}
+.uppercase{
+	text-transform: uppercase;
+}
+span{
+	color: lightpink;
+}
+body{;
+	background-image: img/dress.jpeg;
+}
