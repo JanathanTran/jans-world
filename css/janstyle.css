@@ -1,0 +1,67 @@
+
+body{
+ margin: 0 auto;
+ font-family:"Syne Mono", monospace;
+  font-weight: 400;
+  font-style: normal, Helvetica, Arial, sans-serif;
+ background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/022f1ebf-9aed-4121-9152-8eb080328bac/d7dz6nj-31d4b370-c778-4640-a9c7-7e1d56a26f52.png/v1/fill/w_641,h_641,q_80,strp/tiling_space_background_by_littlefiredragon_d7dz6nj-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjQxIiwicGF0aCI6IlwvZlwvMDIyZjFlYmYtOWFlZC00MTIxLTkxNTItOGViMDgwMzI4YmFjXC9kN2R6Nm5qLTMxZDRiMzcwLWM3NzgtNDY0MC1hOWM3LTdlMWQ1NmEyNmY1Mi5wbmciLCJ3aWR0aCI6Ijw9NjQxIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.1pGDL-M42GYpgrbbZEDqHEvZw61CDiCRiBuvMX0H1w0);
+ max-width: 1250px;
+
+ }
+
+ header{
+ 	padding-top: 100px;
+ 	padding-bottom: 100px;
+ 	text-align: center;
+ }
+main{ 
+	padding: 0 0 0 300px;
+}
+ header img{
+ 	border-radius: 360px;
+ 	border: 9px solid #000000;
+ }
+
+ header h1{
+ 	color: whitesmoke;
+ }
+
+h2{
+	font-size: 30px;
+	text-align: center;
+}
+
+p{
+	font-size: 20px;
+}
+
+ h1, h2, p, a{
+ 	color: whitesmoke;
+ }
+
+a:hover{
+	opacity: .5;
+	background-color: transparent;
+}
+
+div img{
+	max-width: 100%;
+	border-radius: 65px;
+}
+
+.container {
+	margin: 0 auto;
+	display: grid;
+	align-items: center;
+	grid-template-columns: 1fr 1fr 1fr;
+	column-gap: 10px;
+}
+
+footer{
+	text-align: center;
+  font-family: "Libre Barcode 128 Text", system-ui;
+  font-size: 80px;
+  font-weight: 400px;
+  font-style: normal;
+
+}
